@@ -45,6 +45,8 @@ $colors: (
 $toolbar-md-background: color($colors, secondary);
 $ion-page-md-background: color($colors, primary);
 
+$page-title: text-align(center);
+
 // App iOS Variables
 // --------------------------------------------------
 // iOS only Sass variables can go here
@@ -60,9 +62,6 @@ $ion-page-md-background: color($colors, primary);
 // App Windows Variables
 // --------------------------------------------------
 // Windows only Sass variables can go here
-
-
-
 
 // App Theme
 // --------------------------------------------------
